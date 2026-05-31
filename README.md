@@ -14,5 +14,6 @@ This is a Machine Learning web app built python and Streamlit.
 ## How to Run 
 streamlit run app.py
 
-## Live App 
-(Add yours Streamlit link here)
+## Live Demo
+Click here to use the app:
+https://ai-marks-predictor.streamlit.app/
